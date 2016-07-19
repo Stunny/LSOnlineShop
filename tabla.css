@@ -1,0 +1,30 @@
+/*Arxiu d'estils en format CSS*/
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 1.5%
+}
+.wrapper{
+  border-radius: 10px;
+  background: #b7c1c2;
+}
+table, th, td {
+    border: none;
+    width: 100%
+}
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+.sports{
+  background-color: #68e8de
+}
+.electronics{
+  background-color: #fff7d2
+}
+.papeleria{
+  background-color: #7ac470
+}
+.other{
+  background-color: #cfabe8
+}
